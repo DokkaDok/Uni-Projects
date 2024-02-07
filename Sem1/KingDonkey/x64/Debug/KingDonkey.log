@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(582,83): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(582,53): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(598,107): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(598,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(616,48): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(618,48): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\szled\OneDrive\Pulpit\donkey_king_197633\main.cpp(211): warning C4715: "Game::init”: niewszystkie ścieżki kodu zwracają wartość
+  KingDonkey.vcxproj -> C:\Users\szled\OneDrive\Pulpit\KingDonkey\KingDonkey\x64\Debug\KingDonkey.exe
